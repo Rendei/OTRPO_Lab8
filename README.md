@@ -12,8 +12,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Rendei/telegram-email-bot.git
-   cd telegram-email-bot
+   git clone https://github.com/Rendei/OTRPO_Lab8
+   cd OTRPO_Lab8
    ```
 
 2. Создайте и активируйте виртуальное окружение:
