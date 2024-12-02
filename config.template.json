@@ -1,0 +1,7 @@
+{
+    "token": "your_token",
+    "smtp_server": "smtp.yandex.com",
+    "smtp_port": 587,
+    "email": "your_email",
+    "password": "your_password"
+}
